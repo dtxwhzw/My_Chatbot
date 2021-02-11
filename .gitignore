@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+collator.py
+dataset.py
+data/
+output
+__pycache__

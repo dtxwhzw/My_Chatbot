@@ -1,0 +1,21 @@
+train set size: 84692
+val set size: 8458
+test set size: 8476
+[1|2] step
+	 slot loss: 4.508922100067139
+8458 samples val
+	 slot loss: 3.8742201697829204
+--------------------slot--------------------
+	 Precision: 0.00
+	 Recall: 0.01
+	 F1: 0.00
+best val F1 0.0000
+save on /home/zhiweihu/chatbot/output/all_context
+[2|2] step
+	 slot loss: 3.910952091217041
+8458 samples val
+	 slot loss: 3.580146231248774
+--------------------slot--------------------
+	 Precision: 0.00
+	 Recall: 0.00
+	 F1: 0.00

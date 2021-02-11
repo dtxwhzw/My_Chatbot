@@ -1,0 +1,262 @@
+max sen bert_policy len 189
+[(1, 9), (2, 22), (3, 230), (4, 2928), (5, 1282), (6, 1527), (7, 1480), (8, 2173), (9, 1996), (10, 2919), (11, 2229), (12, 3661), (13, 2542), (14, 3269), (15, 2562), (16, 2367), (17, 2485), (18, 2411), (19, 2100), (20, 2087), (21, 2091), (22, 1933), (23, 1959), (24, 1956), (25, 1892), (26, 1664), (27, 1618), (28, 1562), (29, 1608), (30, 1551), (31, 1458), (32, 1578), (33, 1492), (34, 1443), (35, 1420), (36, 1240), (37, 1229), (38, 1233), (39, 1131), (40, 1123), (41, 1012), (42, 1022), (43, 918), (44, 901), (45, 801), (46, 766), (47, 720), (48, 622), (49, 659), (50, 544), (51, 525), (52, 483), (53, 385), (54, 411), (55, 362), (56, 311), (57, 274), (58, 253), (59, 230), (60, 200), (61, 201), (62, 172), (63, 131), (64, 151), (65, 94), (66, 96), (67, 87), (68, 76), (69, 87), (70, 61), (71, 55), (72, 57), (73, 48), (74, 44), (75, 34), (76, 37), (77, 28), (78, 27), (79, 28), (80, 20), (81, 24), (82, 17), (83, 29), (84, 19), (85, 16), (86, 15), (87, 12), (88, 15), (89, 16), (90, 10), (91, 8), (92, 8), (93, 10), (94, 11), (95, 5), (96, 6), (97, 3), (98, 7), (99, 4), (100, 2), (101, 3), (102, 5), (103, 7), (104, 2), (105, 1), (106, 1), (107, 4), (108, 3), (109, 3), (110, 4), (111, 2), (112, 1), (113, 2), (114, 3), (115, 2), (116, 1), (117, 1), (118, 3), (119, 2), (120, 1), (122, 1), (129, 1), (136, 1), (137, 1), (140, 1), (141, 1), (155, 1), (164, 1), (173, 1), (178, 1), (189, 1)]
+max context bert_policy len 267
+[(3, 5012), (5, 1), (6, 1), (8, 1), (9, 1), (16, 2), (17, 6), (18, 7), (19, 17), (20, 40), (21, 39), (22, 58), (23, 78), (24, 87), (25, 108), (26, 125), (27, 162), (28, 189), (29, 166), (30, 251), (31, 276), (32, 311), (33, 381), (34, 435), (35, 502), (36, 506), (37, 609), (38, 609), (39, 640), (40, 668), (41, 684), (42, 694), (43, 700), (44, 705), (45, 765), (46, 740), (47, 793), (48, 830), (49, 759), (50, 821), (51, 835), (52, 906), (53, 859), (54, 962), (55, 899), (56, 929), (57, 922), (58, 935), (59, 927), (60, 974), (61, 965), (62, 1048), (63, 1092), (64, 1025), (65, 976), (66, 1077), (67, 1137), (68, 1086), (69, 1068), (70, 1031), (71, 1054), (72, 1084), (73, 1066), (74, 1103), (75, 1166), (76, 1063), (77, 1128), (78, 1040), (79, 1016), (80, 1068), (81, 1021), (82, 1053), (83, 959), (84, 967), (85, 967), (86, 978), (87, 912), (88, 874), (89, 940), (90, 867), (91, 910), (92, 857), (93, 856), (94, 786), (95, 804), (96, 773), (97, 762), (98, 820), (99, 739), (100, 732), (101, 659), (102, 677), (103, 618), (104, 624), (105, 633), (106, 604), (107, 620), (108, 552), (109, 520), (110, 521), (111, 530), (112, 480), (113, 451), (114, 464), (115, 464), (116, 415), (117, 419), (118, 375), (119, 361), (120, 348), (121, 353), (122, 339), (123, 347), (124, 327), (125, 282), (126, 263), (127, 297), (128, 260), (129, 270), (130, 239), (131, 230), (132, 225), (133, 194), (134, 203), (135, 185), (136, 168), (137, 183), (138, 142), (139, 150), (140, 140), (141, 119), (142, 149), (143, 123), (144, 118), (145, 122), (146, 116), (147, 120), (148, 106), (149, 99), (150, 82), (151, 94), (152, 85), (153, 77), (154, 58), (155, 46), (156, 79), (157, 63), (158, 52), (159, 62), (160, 50), (161, 43), (162, 43), (163, 47), (164, 44), (165, 49), (166, 39), (167, 40), (168, 33), (169, 29), (170, 36), (171, 21), (172, 18), (173, 24), (174, 34), (175, 16), (176, 15), (177, 18), (178, 15), (179, 26), (180, 12), (181, 17), (182, 17), (183, 19), (184, 15), (185, 18), (186, 17), (187, 15), (188, 16), (189, 10), (190, 15), (191, 8), (192, 9), (193, 8), (194, 5), (195, 7), (196, 6), (197, 9), (198, 5), (199, 4), (200, 7), (201, 6), (202, 3), (203, 5), (204, 3), (205, 8), (206, 2), (207, 6), (208, 4), (209, 6), (210, 3), (211, 2), (212, 1), (213, 4), (214, 2), (215, 2), (216, 2), (217, 3), (218, 3), (219, 3), (220, 2), (221, 2), (222, 1), (223, 3), (224, 1), (225, 2), (226, 2), (228, 2), (229, 2), (230, 2), (231, 4), (232, 2), (233, 1), (234, 1), (235, 1), (236, 1), (237, 2), (238, 1), (239, 1), (240, 1), (242, 1), (244, 1), (246, 1), (251, 2), (254, 2), (255, 1), (256, 1), (261, 1), (265, 1), (267, 1)]
+train set size: 84692
+max sen bert_policy len 126
+[(1, 1), (2, 1), (3, 24), (4, 268), (5, 137), (6, 158), (7, 157), (8, 187), (9, 188), (10, 312), (11, 245), (12, 339), (13, 295), (14, 334), (15, 261), (16, 237), (17, 261), (18, 245), (19, 207), (20, 207), (21, 190), (22, 200), (23, 207), (24, 163), (25, 165), (26, 163), (27, 174), (28, 156), (29, 157), (30, 155), (31, 173), (32, 153), (33, 168), (34, 124), (35, 121), (36, 131), (37, 128), (38, 125), (39, 111), (40, 101), (41, 114), (42, 93), (43, 90), (44, 100), (45, 83), (46, 57), (47, 72), (48, 75), (49, 61), (50, 46), (51, 38), (52, 48), (53, 43), (54, 31), (55, 30), (56, 35), (57, 30), (58, 26), (59, 25), (60, 22), (61, 16), (62, 19), (63, 17), (64, 13), (65, 10), (66, 20), (67, 16), (68, 9), (69, 14), (70, 2), (71, 8), (72, 4), (73, 5), (74, 7), (75, 6), (76, 7), (77, 3), (78, 4), (79, 3), (80, 1), (82, 2), (83, 3), (84, 5), (85, 2), (87, 1), (89, 1), (90, 1), (92, 1), (93, 2), (96, 2), (100, 1), (101, 1), (103, 1), (109, 1), (112, 1), (126, 1)]
+max context bert_policy len 209
+[(3, 500), (14, 1), (17, 1), (19, 1), (20, 3), (21, 6), (22, 4), (23, 5), (24, 6), (25, 11), (26, 10), (27, 17), (28, 16), (29, 17), (30, 29), (31, 27), (32, 36), (33, 50), (34, 41), (35, 53), (36, 62), (37, 65), (38, 64), (39, 63), (40, 65), (41, 63), (42, 74), (43, 63), (44, 69), (45, 89), (46, 82), (47, 79), (48, 78), (49, 79), (50, 81), (51, 74), (52, 91), (53, 73), (54, 92), (55, 83), (56, 70), (57, 103), (58, 93), (59, 108), (60, 81), (61, 114), (62, 120), (63, 102), (64, 102), (65, 118), (66, 87), (67, 117), (68, 102), (69, 117), (70, 126), (71, 92), (72, 102), (73, 98), (74, 104), (75, 105), (76, 100), (77, 112), (78, 105), (79, 110), (80, 106), (81, 93), (82, 92), (83, 101), (84, 98), (85, 101), (86, 97), (87, 105), (88, 89), (89, 86), (90, 79), (91, 83), (92, 88), (93, 84), (94, 86), (95, 72), (96, 84), (97, 94), (98, 64), (99, 93), (100, 57), (101, 67), (102, 62), (103, 70), (104, 64), (105, 70), (106, 45), (107, 59), (108, 51), (109, 42), (110, 51), (111, 57), (112, 37), (113, 47), (114, 50), (115, 46), (116, 52), (117, 46), (118, 44), (119, 32), (120, 26), (121, 26), (122, 30), (123, 36), (124, 33), (125, 29), (126, 29), (127, 24), (128, 21), (129, 29), (130, 29), (131, 27), (132, 24), (133, 22), (134, 19), (135, 18), (136, 15), (137, 22), (138, 17), (139, 11), (140, 14), (141, 14), (142, 14), (143, 17), (144, 11), (145, 9), (146, 17), (147, 16), (148, 13), (149, 8), (150, 18), (151, 7), (152, 7), (153, 13), (154, 11), (155, 3), (156, 7), (157, 6), (158, 3), (159, 3), (160, 6), (161, 3), (162, 7), (163, 4), (164, 4), (165, 6), (166, 3), (167, 5), (168, 7), (169, 4), (170, 6), (171, 3), (172, 5), (173, 2), (174, 2), (175, 3), (176, 1), (178, 2), (179, 2), (180, 5), (182, 2), (183, 3), (184, 3), (185, 2), (186, 1), (189, 2), (190, 1), (191, 1), (193, 1), (194, 1), (195, 1), (197, 1), (201, 3), (206, 1), (208, 1), (209, 1)]
+val set size: 8458
+max sen bert_policy len 199
+[(2, 2), (3, 25), (4, 302), (5, 123), (6, 152), (7, 138), (8, 259), (9, 179), (10, 291), (11, 215), (12, 344), (13, 266), (14, 323), (15, 289), (16, 236), (17, 247), (18, 233), (19, 209), (20, 224), (21, 184), (22, 184), (23, 192), (24, 176), (25, 209), (26, 194), (27, 132), (28, 190), (29, 160), (30, 181), (31, 140), (32, 162), (33, 137), (34, 119), (35, 121), (36, 117), (37, 134), (38, 122), (39, 131), (40, 112), (41, 107), (42, 106), (43, 95), (44, 110), (45, 73), (46, 53), (47, 55), (48, 70), (49, 63), (50, 57), (51, 50), (52, 49), (53, 37), (54, 55), (55, 35), (56, 32), (57, 31), (58, 27), (59, 23), (60, 20), (61, 18), (62, 12), (63, 13), (64, 12), (65, 9), (66, 11), (67, 6), (68, 8), (69, 6), (70, 7), (71, 3), (72, 5), (73, 6), (74, 7), (75, 2), (76, 7), (77, 2), (78, 3), (79, 4), (80, 5), (81, 3), (82, 3), (83, 5), (84, 2), (85, 1), (88, 2), (89, 1), (90, 1), (91, 1), (94, 1), (98, 1), (100, 1), (106, 1), (111, 1), (113, 1), (114, 1), (119, 1), (199, 1)]
+max context bert_policy len 275
+[(3, 500), (15, 1), (18, 3), (19, 1), (20, 4), (21, 6), (22, 6), (23, 3), (24, 11), (25, 13), (26, 19), (27, 10), (28, 19), (29, 12), (30, 18), (31, 36), (32, 29), (33, 43), (34, 42), (35, 45), (36, 52), (37, 55), (38, 39), (39, 50), (40, 79), (41, 77), (42, 60), (43, 76), (44, 77), (45, 75), (46, 83), (47, 100), (48, 78), (49, 87), (50, 92), (51, 106), (52, 86), (53, 80), (54, 94), (55, 98), (56, 86), (57, 94), (58, 94), (59, 89), (60, 96), (61, 107), (62, 83), (63, 110), (64, 111), (65, 92), (66, 104), (67, 99), (68, 114), (69, 127), (70, 93), (71, 104), (72, 102), (73, 124), (74, 107), (75, 98), (76, 117), (77, 113), (78, 116), (79, 93), (80, 97), (81, 96), (82, 107), (83, 98), (84, 93), (85, 107), (86, 92), (87, 101), (88, 95), (89, 78), (90, 103), (91, 94), (92, 92), (93, 81), (94, 81), (95, 89), (96, 85), (97, 67), (98, 87), (99, 63), (100, 71), (101, 61), (102, 60), (103, 60), (104, 63), (105, 71), (106, 69), (107, 51), (108, 61), (109, 56), (110, 44), (111, 53), (112, 50), (113, 47), (114, 49), (115, 44), (116, 42), (117, 42), (118, 41), (119, 43), (120, 33), (121, 32), (122, 32), (123, 25), (124, 30), (125, 23), (126, 28), (127, 20), (128, 20), (129, 25), (130, 13), (131, 30), (132, 20), (133, 33), (134, 28), (135, 14), (136, 15), (137, 13), (138, 12), (139, 13), (140, 9), (141, 17), (142, 11), (143, 12), (144, 11), (145, 15), (146, 11), (147, 11), (148, 11), (149, 12), (150, 10), (151, 10), (152, 8), (153, 5), (154, 10), (155, 7), (156, 5), (157, 2), (158, 6), (159, 10), (160, 3), (161, 4), (162, 4), (163, 3), (164, 6), (165, 1), (166, 3), (167, 8), (168, 2), (169, 4), (170, 4), (171, 5), (172, 2), (173, 2), (174, 1), (175, 4), (176, 2), (177, 2), (179, 2), (180, 4), (181, 1), (182, 2), (183, 3), (184, 2), (185, 4), (186, 1), (187, 2), (189, 2), (192, 2), (194, 1), (196, 1), (197, 1), (200, 3), (202, 2), (204, 1), (208, 1), (211, 1), (212, 2), (231, 1), (249, 1), (252, 1), (275, 1)]
+test set size: 8476
+bert.embeddings.word_embeddings.weight torch.Size([21128, 768]) cuda:0 True
+bert.embeddings.position_embeddings.weight torch.Size([512, 768]) cuda:0 True
+bert.embeddings.token_type_embeddings.weight torch.Size([2, 768]) cuda:0 True
+bert.embeddings.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.embeddings.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.0.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.0.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.0.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.0.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.0.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.0.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.0.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.0.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.0.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.0.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.0.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.0.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.0.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.0.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.0.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.0.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.1.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.1.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.1.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.1.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.1.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.1.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.1.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.1.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.1.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.1.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.1.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.1.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.1.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.1.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.1.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.1.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.2.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.2.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.2.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.2.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.2.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.2.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.2.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.2.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.2.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.2.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.2.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.2.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.2.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.2.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.2.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.2.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.3.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.3.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.3.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.3.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.3.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.3.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.3.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.3.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.3.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.3.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.3.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.3.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.3.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.3.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.3.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.3.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.4.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.4.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.4.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.4.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.4.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.4.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.4.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.4.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.4.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.4.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.4.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.4.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.4.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.4.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.4.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.4.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.5.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.5.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.5.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.5.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.5.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.5.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.5.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.5.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.5.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.5.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.5.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.5.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.5.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.5.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.5.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.5.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.6.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.6.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.6.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.6.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.6.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.6.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.6.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.6.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.6.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.6.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.6.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.6.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.6.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.6.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.6.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.6.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.7.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.7.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.7.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.7.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.7.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.7.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.7.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.7.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.7.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.7.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.7.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.7.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.7.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.7.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.7.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.7.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.8.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.8.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.8.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.8.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.8.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.8.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.8.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.8.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.8.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.8.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.8.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.8.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.8.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.8.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.8.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.8.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.9.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.9.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.9.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.9.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.9.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.9.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.9.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.9.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.9.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.9.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.9.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.9.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.9.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.9.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.9.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.9.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.10.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.10.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.10.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.10.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.10.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.10.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.10.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.10.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.10.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.10.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.10.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.10.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.10.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.10.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.10.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.10.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.11.attention.self.query.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.11.attention.self.query.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.11.attention.self.key.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.11.attention.self.key.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.11.attention.self.value.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.11.attention.self.value.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.11.attention.output.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.encoder.layer.11.attention.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.11.attention.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.11.attention.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.11.intermediate.dense.weight torch.Size([3072, 768]) cuda:0 True
+bert.encoder.layer.11.intermediate.dense.bias torch.Size([3072]) cuda:0 True
+bert.encoder.layer.11.output.dense.weight torch.Size([768, 3072]) cuda:0 True
+bert.encoder.layer.11.output.dense.bias torch.Size([768]) cuda:0 True
+bert.encoder.layer.11.output.LayerNorm.weight torch.Size([768]) cuda:0 True
+bert.encoder.layer.11.output.LayerNorm.bias torch.Size([768]) cuda:0 True
+bert.pooler.dense.weight torch.Size([768, 768]) cuda:0 True
+bert.pooler.dense.bias torch.Size([768]) cuda:0 True
+intent_classifier.weight torch.Size([158, 768]) cuda:0 True
+intent_classifier.bias torch.Size([158]) cuda:0 True
+slot_classifier.weight torch.Size([77, 768]) cuda:0 True
+slot_classifier.bias torch.Size([77]) cuda:0 True
+intent_hidden.weight torch.Size([768, 768]) cuda:0 True
+intent_hidden.bias torch.Size([768]) cuda:0 True
+slot_hidden.weight torch.Size([768, 768]) cuda:0 True
+slot_hidden.bias torch.Size([768]) cuda:0 True
+[1|2] step
+	 slot loss: 4.44320011138916
+	 intent loss: 0.8752942085266113
+8458 samples val
+	 slot loss: 3.6676257755153707
+	 intent loss: 0.8154719284971038
+--------------------intent--------------------
+	 Precision: 0.51
+	 Recall: 57.04
+	 F1: 1.02
+--------------------slot--------------------
+	 Precision: 0.00
+	 Recall: 0.00
+	 F1: 0.00
+--------------------overall--------------------
+	 Precision: 0.47
+	 Recall: 21.79
+	 F1: 0.92
+best val F1 0.0092
+save on /home/zhiweihu/My_chatbot/chatbot/output/all_context
+[2|2] step
+	 slot loss: 3.838711738586426
+	 intent loss: 0.8422369360923767
+8458 samples val
+	 slot loss: 3.358269901048999
+	 intent loss: 0.8037748242571834
+--------------------intent--------------------
+	 Precision: 0.51
+	 Recall: 56.10
+	 F1: 1.02
+--------------------slot--------------------
+	 Precision: 0.00
+	 Recall: 0.00
+	 F1: 0.00
+--------------------overall--------------------
+	 Precision: 0.48
+	 Recall: 21.43
+	 F1: 0.94
+best val F1 0.0094
+save on /home/zhiweihu/My_chatbot/chatbot/output/all_context
